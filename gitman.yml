@@ -1,0 +1,10 @@
+location: .
+sources:
+  - repo: https://github.com/flakka-code/flakka_blob_testable
+    name: testable
+    rev: main
+    type: git
+  - repo: https://github.com/flakka-code/flakka_blob_test_suite
+    name: test_suite
+    rev: main
+    type: git
